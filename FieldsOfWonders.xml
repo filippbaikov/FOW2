@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\games\FieldOfWonders\out\artifacts\FieldOfWonders_jar\FieldOfWonders.jar</jar>
+  <outfile>C:\games\FieldOfWonders\FieldOfWonders.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\games\FieldOfWonders\out\artifacts\FieldOfWonders_jar\1697739448_flomaster-top-p-pole-chudes-risunok-pinterest-59.ico</icon>
+  <jre>
+    <path>jre1.8.0_431</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8.0_431</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
